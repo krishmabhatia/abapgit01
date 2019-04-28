@@ -1,3 +1,3 @@
 report ztesttttt923.
-write:'hello world ok'.
+write:'hello world ok '.
 
